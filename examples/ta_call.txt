@@ -1,0 +1,8 @@
+# lang: ta
+# Tamil customer-support call - contains deliberate errors
+[00:00:00.800] Agent: வணக்கம், உங்களுக்கு எப்படி உதவலாம்?
+[00:00:03.400] Customer: என் orderஐ இன்னும் காணவில்லை.
+[00:00:07.000] Agent: உங்கள் order எண் சொல்லுங்கள்.
+[00:00:10.250] Customer: 4572 [pause] இல்லை, ௪௫௭௩.
+[00:00:15.900] Agent: சரி, ஒரு நிமிடம் காத்திருங்கள்)
+[00:00:61.000] Customer: [laughter] நன்றி.

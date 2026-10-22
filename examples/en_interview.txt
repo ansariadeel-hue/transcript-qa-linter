@@ -1,0 +1,9 @@
+# lang: en
+# Interview about an annotation project (verbatim English) - contains deliberate errors
+[00:00:01.200] Interviewer: Thanks for joining us today. Can you hear me okay?
+[00:00:04.850] Guest: Yes, loud and clear. [laughter]
+[00:00:09.100] Interviewer: Great. Tell us about the project (it started in 2019, right?
+[00:00:15.400] Guest: Right, we began with 3 annotators and grew to 12.  Then [inaudable] happened.
+[00:00:13.900] Interviwer: And the timeline?
+[0:00:21.5] Guest: About 18 months. [crosstalk]
+[00:00:25.000] Interviewer: 

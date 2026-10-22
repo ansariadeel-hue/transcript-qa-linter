@@ -1,0 +1,6 @@
+# lang: en
+# A clean file: no issues expected
+[00:00:00.000] Interviewer: Could you describe your QA process?
+[00:00:03.500] Guest: Sure. Every file gets a second pass [pause] and a spot check.
+[00:00:08.250] Interviewer: How many reviewers?
+[00:00:10.000] Guest: Two reviewers, sometimes 3 for long files. [laughter]

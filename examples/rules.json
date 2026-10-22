@@ -1,0 +1,21 @@
+{
+  "allowed_tags": [
+    "inaudible",
+    "crosstalk",
+    "laughter",
+    "noise",
+    "music",
+    "pause"
+  ],
+  "script_allowlist": [
+    "OK",
+    "episode",
+    "order",
+    "WhatsApp"
+  ],
+  "numerals": "consistent",
+  "disable": [],
+  "severity": {
+    "SPK003": "info"
+  }
+}

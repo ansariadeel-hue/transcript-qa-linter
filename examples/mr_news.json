@@ -1,0 +1,30 @@
+{
+  "language": "mr",
+  "segments": [
+    {
+      "start": "00:00:01.000",
+      "speaker": "Anchor",
+      "text": "नमस्कार, आजच्या बातम्यांमध्ये आपले स्वागत आहे."
+    },
+    {
+      "start": "00:00:05.500",
+      "speaker": "Anchor",
+      "text": "पुण्यात आज १२० मिमी पाऊस झाला."
+    },
+    {
+      "start": "00:00:09.250",
+      "speaker": "Reporter",
+      "text": "होय, शहरातील अनेक  रस्ते पाण्याखाली गेले आहेत. [inaudible]"
+    },
+    {
+      "start": "00:00:08.000",
+      "speaker": "Reporter",
+      "text": ""
+    },
+    {
+      "start": "00:00:14.000",
+      "speaker": "Anchor",
+      "text": "धन्यवाद. पुढील बातमी traffic बद्दल आहे. [musik]"
+    }
+  ]
+}
