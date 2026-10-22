@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "transcript-qa-linter"
+version = "0.1.0"
+description = "QA linter for verbatim transcription/translation deliverables in English, Hindi, Marathi and Tamil."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Ansari Adeel Ahmad" }]
+keywords = ["transcription", "linter", "qa", "annotation", "hindi", "marathi", "tamil"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Text Processing :: Linguistic",
+    "Topic :: Software Development :: Quality Assurance",
+]
+dependencies = []
+
+[project.scripts]
+transcript-qa = "transcript_qa.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/ansariadeel-hue/transcript-qa-linter"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
